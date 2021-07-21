@@ -5,3 +5,8 @@ I've added a new file.
 here is the updated version.
 
 Github update.
+
+2. Diffrence between add, commit, push
+For add command, you will stage the unstaged files
+For Commit command, you will commit the staged files and need to have commit message in order for us to easily track the changes.
+For Push, this will be the last step after the commit, for you to push it in a remote server or local. for the changes to be implemented.
